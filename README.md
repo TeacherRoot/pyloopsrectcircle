@@ -11,7 +11,7 @@ py5.rect(x, y, width, height)
 
 Part One Output : 
 
-![Results](./pyloopsrectcircle/Picture.jpg)
+![Results](./assets/images/Picture.jpg)
 
 
 
